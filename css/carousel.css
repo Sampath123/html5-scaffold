@@ -34,6 +34,23 @@ body {
   text-align: center;     
 }
 
+#four
+{ background-color: green;
+
+
+
+}
+.pad
+{
+  padding:20px;
+}
+.phone
+{
+  height: 400px;
+
+}
+
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -99,8 +116,26 @@ body {
   letter-spacing: -1px;
 }
 
+#four
+{
+  background-color: green:
+  padding-left:10px;
 
+}
+.pad
+{
+  padding: 20px;
+}
 
+.screenshot
+{
+  border-color: white;
+  border-style: solid;
+  border: 3px;
+  border-height: 150px;
+ border-width: 200px;
+
+}
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
